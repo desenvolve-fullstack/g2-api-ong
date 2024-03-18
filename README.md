@@ -22,4 +22,4 @@ Criar uma API RESTful e Frontend para:
 - Efetue a entrega de um pedido, fazendo a baixa das quantidades no estoque e registrando a entrega.
 
 ### Arquitetura
-![Diagrama]([https://exemplo.com/logo.png](https://github.com/desenvolve-fullstack/g2-api-ong/docs/ong-arch.jpg))
+![Diagrama](https://github.com/desenvolve-fullstack/g2-api-ong/docs/ong-arch.jpg)
